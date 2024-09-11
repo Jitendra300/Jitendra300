@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jitendra300
 - 👀 I’m interested in AI, Machine Learning, and Hacking Stuffs.
 - 🌱 I’m currently learning to use GNU+Linux, and C Language, and gonna learn to use some Unix Tools.
-- 💞️ I’m looking to collaborate on with projects which excites me.
+- 💞️ I’m looking to collaborate on with projects which excites my curiosity and challenges me.
 - 📫 How to reach me : You can reach me by directly contacting me on Github.
 
 <!---
