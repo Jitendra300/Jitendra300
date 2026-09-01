@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Jitendra
-- 👀 I’m interested in AI, IoT and Embedded system.
-- 🌱 I’m currently learning to build complex projects from scratch.
-- 💞️ I’m looking to collaborate on projects which challenge and excites my curiosity.
+## Hello, stranger.
+
+You found my little corner of the internet.
+
+There isn't much here.
+
+Or perhaps you're just looking in the wrong place.
+
 
 <!---
 Jitendra300/Jitendra300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
